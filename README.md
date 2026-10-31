@@ -2,16 +2,18 @@
 ## 🌐 Live Streamlit Dashboard
 
 
-The project includes an interactive web-based dashboard developed using Streamlit to visualize network performance and machine learning results.
+The project includes an interactive dashboard developed using Streamlit.
 
 **Dashboard:** (https://packet-loss-and-prediction-system-ng6ddfyibdhnfpgrkt4uhv.streamlit.app/)
 
-### Dashboard Features
-- Network traffic analysis and visualization
-- Current packet loss detection
-- Future packet loss prediction (5-second horizon)
-- Packet loss rate estimation
-- Machine learning model performance comparison
-- Dataset exploration and CSV download
+**Dashboard Modules**
+System Overview
+Network Traffic Analysis
+AI-Based Packet Loss Detection
+Five-Second Packet Loss Prediction
+Machine Learning Model Performance
+Dataset Explorer
+Dashboard Preview
 
-The dashboard uses the trained machine learning models and generated network dataset to display analytical results.
+
+The dashboard provides visual insights into network measurements, packet-loss events, prediction results, and machine learning model performance.
