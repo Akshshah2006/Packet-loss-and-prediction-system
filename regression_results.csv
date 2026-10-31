@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Random Forest,1.101,4.012,0.774
+Gradient Boosting,1.09,4.039,0.771
+Persistence baseline,1.426,5.671,0.549
