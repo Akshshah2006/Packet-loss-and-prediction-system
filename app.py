@@ -20,7 +20,7 @@ st.set_page_config(
 st.title("🌐 AI-Based Packet Loss Detection and Prediction System")
 st.caption("Machine Learning-Based Network Performance Analysis")
 
-OUTPUT_DIR = "packet_loss_project"
+OUTPUT_DIR = "."
 
 # --------------------------------------------------
 # LOAD TRAINED MODELS AND RESULTS
