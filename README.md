@@ -4,7 +4,7 @@
 
 The project includes an interactive web-based dashboard developed using Streamlit to visualize network performance and machine learning results.
 
-**Dashboard:** [Open AI-Based Packet Loss Detection and Prediction System]([https://packet-loss-and-prediction-system-27a3wm8f395eup6iazmks.streamlit.app/](https://packet-loss-and-prediction-system-ng6ddfyibdhnfpgrkt4uhv.streamlit.app/))
+**Dashboard:** (https://packet-loss-and-prediction-system-ng6ddfyibdhnfpgrkt4uhv.streamlit.app/)
 
 ### Dashboard Features
 - Network traffic analysis and visualization
