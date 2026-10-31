@@ -13,8 +13,7 @@ The project includes an interactive web-based dashboard developed using **Stream
 - **Machine Learning Model Performance:** Displays model evaluation metrics and comparison results.
 - **Dataset Explorer:** Allows users to explore and download network measurement data.
 
-### Dashboard Preview
+### Dashboard 
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
 
 The dashboard provides an interactive interface for analysing network behaviour, identifying packet-loss conditions, examining prediction results, and evaluating the performance of the trained machine learning models.
